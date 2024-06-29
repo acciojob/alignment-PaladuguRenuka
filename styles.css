@@ -11,13 +11,13 @@ h4{
 	width: 600px;
 	margin-bottom: 20px;
 }
-.left{
+.left, #t11{
 	text-align:left;
 }
-.middle{
+.middle, #t12{
 	text-align: center;
 }
-.right{
+.right, #t13{
 	text-align: right;
 }
 #t-image{
