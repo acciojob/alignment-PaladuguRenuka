@@ -4,8 +4,9 @@ h4{
 	margin-bottom: 0px;
 }
 #table-2, #table-1, #table-3, th, td{
-	border: 2px solid black;
-	border-collapse: collapse;
+	border: 1px solid black;
+	spacing: 1px;
+	cell-padding: 1px;
 	height: 15px;
 	width: 600px;
 	margin-bottom: 20px;
