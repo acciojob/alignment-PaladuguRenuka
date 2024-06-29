@@ -1,1 +1,29 @@
 /*  your css code here. If applicable */
+h4{
+	text-align: center;
+	margin-bottom: 0px;
+}
+#table-2, #table-1, #table-3, th, td{
+	border: 2px solid black;
+	border-collapse: collapse;
+	height: 15px;
+	width: 600px;
+	margin-bottom: 20px;
+}
+#t11{
+	text-align:left;
+}
+#t12{
+	text-align: center;
+}
+#t13{
+	text-align: right;
+}
+img{
+	height: 200px;
+	width: 200px;
+	padding: 0px;
+	margin: 0px;
+	text-align: center;
+	
+}
